@@ -23,7 +23,7 @@ organizations:
 bio: Interested in disrupting the norms and reshaping the digital landscape!
 interests:
 - Software Development
-- Web Development
+- Data Engineering
 - Machine Learning
 - Data Science
 
@@ -64,6 +64,8 @@ social:
 user_groups:
 - Researchers
 ---
-I will be working on the echoflow project over the summer. [Echoflow](https://github.com/OSOceanAcoustics/echoflow), an open source project, aims to orchestrate the echopype data processing functions to ease the ability to process cloud-based/local data through a sequence of functions. Echoflow will be developed in parallel with the ongoing development of [echopype](https://echopype.readthedocs.io/en/stable/#), which handles the standardization, preprocessing and organization of echo data.
+I'm Soham, a Data Science graduate from the University of Washington with five years of diverse experience at Deloitte and AWS, specializing in software engineering, data engineering, and application security. I am passionate about Data Engineering and always eager to embrace new technologies.
+
+At Echospace, I work on [Echoflow](https://github.com/OSOceanAcoustics/echodataflow), an open-source data pipeline orchestration tool that simplifies and enhances the execution of data processing tasks. Echoflow leverages [Echopype](https://github.com/OSOceanAcoustics/echopype) to seamlessly process and analyze sonar data, offering a modular and user-friendly approach to data analysis.
 
 
